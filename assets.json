@@ -1,0 +1,144 @@
+{
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 mobile game background, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, a sunset country highway curving away into warm wheat fields, coral and amber sky, calm uncluttered upper two thirds so the village panels stay readable, the busy detail low in the frame, no text, no UI elements, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 mobile game background, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, a soft low-contrast sunset field with distant rolling hills, muted and evenly lit, nothing busy anywhere so the lanes and the HUD stay readable, no text, no UI elements, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_hero_rooster",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_hero_rooster.png",
+      "prompt": "One single small cream farm rooster with a coral comb, three-quarter top-down view, facing UP, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_car_teal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_car_teal.png",
+      "prompt": "One single teal hatchback car, side view, facing RIGHT, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_truck_hay",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_truck_hay.png",
+      "prompt": "One single flatbed farm truck loaded with golden wheat bales, side view, facing RIGHT, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_bus_coral",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_bus_coral.png",
+      "prompt": "One single coral country bus, side view, facing RIGHT, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_raft_log",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_raft_log.png",
+      "prompt": "One single timber raft of lashed logs seen from above, symmetric left to right, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_chick",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_chick.png",
+      "prompt": "One single fluffy yellow chick, three-quarter top-down view, facing UP, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_feather",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_feather.png",
+      "prompt": "One single cream feather standing upright, symmetric left to right, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "tile_asphalt",
+      "type": "sprite",
+      "transparent": false,
+      "target": "Assets/Art/Sprites/tile_asphalt.png",
+      "prompt": "A dark grey asphalt road lane with a dashed cream centre line, seamless horizontal strip, flat left and right ends so copies join, top-down view, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, no text, no other objects, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "tile_verge",
+      "type": "sprite",
+      "transparent": false,
+      "target": "Assets/Art/Sprites/tile_verge.png",
+      "prompt": "A green grass verge with small wheat tufts, seamless horizontal strip, flat left and right ends so copies join, top-down view, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, no text, no other objects, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "tile_island",
+      "type": "sprite",
+      "transparent": false,
+      "target": "Assets/Art/Sprites/tile_island.png",
+      "prompt": "A pale gravel median strip with a cream kerb along both long edges, seamless horizontal strip, flat left and right ends so copies join, top-down view, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, no text, no other objects, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "tile_water",
+      "type": "sprite",
+      "transparent": false,
+      "target": "Assets/Art/Sprites/tile_water.png",
+      "prompt": "A calm teal river surface with soft ripples, seamless horizontal strip, flat left and right ends so copies join, top-down view, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, no text, no other objects, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "sprite_emblem_mark",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem_mark.png",
+      "prompt": "One single coral road-sign lozenge with a cream feather shape cut out of its centre, a flat abstract emblem, absolutely no letters and no lettering, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_back.png",
+      "prompt": "One single cream chevron arrow pointing LEFT, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_pause.png",
+      "prompt": "One single cream pause glyph of two upright bars, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_close.png",
+      "prompt": "One single cream diagonal cross glyph, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_star",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_star.png",
+      "prompt": "One single cream five point star, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_lock",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_lock.png",
+      "prompt": "One single cream closed padlock, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    },
+    {
+      "name": "icon_picnic",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/icon_picnic.png",
+      "prompt": "One single cream picnic basket with a checked cloth, a flat solid interface glyph, clean low-poly game art, flat-shaded chunky forms, thick simple silhouettes, warm sunset light, stylized, crisp silhouette, centred and fully in frame, no other objects, no text, minimal ground shadow, no photo, no photorealistic, no DSLR, no stock photo, no film grain, no lens flare, no bokeh, no depth of field"
+    }
+  ]
+}

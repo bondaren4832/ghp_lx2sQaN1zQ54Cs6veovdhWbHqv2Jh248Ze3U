@@ -1,0 +1,105 @@
+{
+  "app": "FeatherHighwayQuest",
+  "canvas": {
+    "reference": [
+      1242,
+      2688
+    ],
+    "capturedOn": [
+      1080,
+      2400
+    ],
+    "scaler": "Expand"
+  },
+  "steps": [
+    {
+      "waitLoader": true,
+      "shot": "01_village"
+    },
+    {
+      "tapFrac": [
+        0.3068,
+        0.8804
+      ],
+      "label": "MAP tab",
+      "wait": 1.6,
+      "shot": "02_journey_map"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8804
+      ],
+      "label": "ALBUM tab",
+      "wait": 1.6,
+      "shot": "03_friend_album"
+    },
+    {
+      "tapFrac": [
+        0.8865,
+        0.8804
+      ],
+      "label": "MORE tab",
+      "wait": 1.6,
+      "shot": "04_challenges_settings"
+    },
+    {
+      "tapFrac": [
+        0.1135,
+        0.8804
+      ],
+      "label": "HOME tab",
+      "wait": 1.2,
+      "shot": null
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.7173
+      ],
+      "label": "PLAY",
+      "waitLoader": true,
+      "shot": null
+    },
+    {
+      "wait": 3.5,
+      "shot": "05_crossing_start"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.55
+      ],
+      "label": "hop forward",
+      "wait": 1.6,
+      "shot": "06_highway_mid"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.55
+      ],
+      "label": "hop forward",
+      "wait": 1.8,
+      "shot": "07_lanes_advanced"
+    },
+    {
+      "tapFrac": [
+        0.8945,
+        0.1449
+      ],
+      "label": "PAUSE",
+      "wait": 1.6,
+      "shot": "08_pause_card"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.6159
+      ],
+      "label": "RESUME",
+      "wait": 1.8,
+      "shot": "09_back_in_run"
+    }
+  ]
+}
